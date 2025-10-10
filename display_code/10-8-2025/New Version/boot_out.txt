@@ -1,4 +1,4 @@
 Adafruit CircuitPython 10.0.1 on 2025-10-09; Adafruit MatrixPortal S3 with ESP32S3
 Board ID:adafruit_matrixportal_s3
 UID:84722E02C581
-MAC:48:81:CB:3F:60:BE
+MAC:48:27:E2:20:5C:18
