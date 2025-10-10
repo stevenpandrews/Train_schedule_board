@@ -1,0 +1,3 @@
+# This is the settings.toml file
+CIRCUITPY_WIFI_SSID = "JE06_2-4"
+CIRCUITPY_WIFI_PASSWORD = "OceanAve"
